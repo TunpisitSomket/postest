@@ -40,4 +40,6 @@ for block in blockchain.chain:
     print(f"Stake Amount: {block.stake_amount}")
     print(f"Hash: {block.hash}")
 
+#Rich brooo
+
 
